@@ -117,6 +117,5 @@ void destroyList(SeqList *L){
 
 int main(){
     SeqList *L=createList(100);
-    
     return 0;
 }
